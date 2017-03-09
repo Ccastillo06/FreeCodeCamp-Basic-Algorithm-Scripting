@@ -1,2 +1,3 @@
-# Reverse-a-string
-Basic Algorithm Scripting Challenge from FreeCodeCamp
+FreeCodeCamp Challenges
+
+I'll update the repo with every challenge I finish starting on the Basic Algorithm Scripting challenge.
