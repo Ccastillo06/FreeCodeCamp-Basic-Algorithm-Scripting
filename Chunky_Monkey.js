@@ -10,7 +10,7 @@ function chunkArrayInGroups(arr, size) {
     
     pushed.push(spl);  // Store spl into pushed to create the bidimensional array.
     
-  }
+  } // Can also make the loops with pushed.push(arr.splice(0,size));
   
   return pushed;  // Return the final formed array.
 }
